@@ -12,11 +12,11 @@
 
     "telegram",
 
-    "telethonnotbot",
+    "userbot",
 
     "plugin",
 
-    "telegram-telethonnotbot",
+    "telegram-userbot",
 
     "productivity"
 
@@ -42,7 +42,7 @@
 
       "description": "Where downloaded files will go.",
 
-      "value": "./fridaybot/DOWNLOADS/",
+      "value": "./telethonTnT/DOWNLOADS/",
 
       "required": false
 
