@@ -4,9 +4,7 @@
 # Installing
 Join https://t.me/xtelethon for updates and tuts
 ### The Easy Way
-
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/telethonTnT/TNT)
-
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ### UniBorg Configuration
 
 The UniBorg Config is situated in `userbot/uniborgConfig.py`.
