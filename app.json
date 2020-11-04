@@ -2,9 +2,9 @@
 
 {
 
-  "name": "Friday-Userbot",
+  "name": "TNT",
 
-  "description": "A Userbot Based On Telethon By @StarkXD",
+  "description": "A Userbot Based On Telethon By @sshtml",
 
   "logo": "https://telegra.ph/file/b4e1e36c6b1fcb32dd997.jpg",
 
@@ -12,21 +12,21 @@
 
     "telegram",
 
-    "fridaybot",
+    "telethonnotbot",
 
     "plugin",
 
-    "telegram-fridaybot",
+    "telegram-telethonnotbot",
 
     "productivity"
 
   ],
 
-  "repository": "https://github.com/starkgang/FridayUserbot",
+  "repository": "https://github.com/telethonTnT/TNT",
 
   "website": "starkgang.ml",
 
-  "success_url": "t.me/FridayOT",
+  "success_url": "t.me/pkgiq",
 
   "env": {
 
